@@ -30,11 +30,11 @@ My work spans business analytics, supply chain optimization, and predictive mode
 
 | Project                                                                                                       | Description                                                                                                                    | Tools                       |
 | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
-| [Coca-Cola Supply Chain Optimization](https://github.com/kelvinasah/cocacola-supply-chain)                    | Built a linear programming model to minimize Coca-Cola’s transportation cost between bottling plants and distribution centers. | Excel Solver, Python (PuLP) |
-| [Blue Ridge Hot Tubs Optimization](https://github.com/kelvinasah/blue-ridge-hot-tubs)                         | Developed a production plan maximizing profit while meeting resource constraints using LP.                                     | Excel Solver                |                         | Excel Solver                |
-| [Heart Disease Prediction](https://github.com/kelvinasah/heart-disease-ml)                                    | Machine learning classification using logistic regression and decision trees to predict heart attack likelihood.               | Python, scikit-learn        |
-| [Regression Analysis: Predicting Star Ages](https://github.com/kelvinasah/star-age-regression)                | Regression model predicting stellar ages using Python and statistical analysis.                                                | Python, Pandas, NumPy       |
-| [Burger King & Freddy’s Business Retention Report](https://github.com/kelvinasah/victoria-business-retention) | Business analytics report improving retail performance for City of Victoria, Texas.                                            | Power BI, Excel             |
+| [Coca-Cola Supply Chain Optimization]| Built a linear programming model to minimize Coca-Cola’s transportation cost between bottling plants and distribution centers. | Excel Solver, Python (PuLP) |
+| [Blue Ridge Hot Tubs Optimization]| Developed a production plan maximizing profit while meeting resource constraints using LP.                                     | Excel Solver                |                         | Excel Solver                |
+| [Heart Disease Prediction]                                   | Machine learning classification using logistic regression and decision trees to predict heart attack likelihood.               | Python, scikit-learn        |
+| [Regression Analysis: Predicting Star Ages]              | Regression model predicting stellar ages using Python and statistical analysis.                                                | Python, Pandas, NumPy       |
+| [Burger King & Freddy’s Business Retention Report] (https://www.victoriatx.gov/CivicAlerts.aspx?AID=1977&ARC=3953) | Business analytics report improving retail performance for City of Victoria, Texas.                                            | Power BI, Excel             |
 
 ---
 
