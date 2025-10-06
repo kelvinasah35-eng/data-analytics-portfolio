@@ -50,7 +50,7 @@ My work spans business analytics, supply chain optimization, and predictive mode
 
 * 💼 www.linkedin.com/in/kelvin-asah
 * 📧 kelvinasah35@gmail.com
-* 🌐 [GitHub Portfolio](https://github.com/kelvinasah)
+  
 
 ---
 
