@@ -1,2 +1,10 @@
 # data-analytics-portfolio
-Data Analyst | M.S. in Business Analytics &amp; Data Science | Passionate about Machine Learning and Optimization  📊 Data Analyst | Python | SQL | Power BI | Turning data into actionable insights  🎯 Data Scientist in training | Business Analytics | Predictive Modeling | Linear Programming
+Hi, I'm Kelvin Kofi Kumi Asah
+
+🎓 Master's in Business Analytics | Pursuing M.S. in Data Science  
+💼 Data Analyst | Passionate about Optimization, Machine Learning & Business Intelligence  
+
+## 🧠 Skills
+- Python, R, SQL, Excel, Power BI
+- Machine Learning, Data Visualization, Predictive Modeling
+- Linear Programming, Supply Chain Analytics
